@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="t d">
+  <title id="t">CARL Lab Website</title>
+  <desc id="d">Banner for the Chromatin and Aging Research Lab website: a chromatin strand of nucleosomes that fades from young to old.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#140d24"/>
+      <stop offset="0.55" stop-color="#231438"/>
+      <stop offset="1" stop-color="#2e1a2c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff9e6b"/>
+      <stop offset="1" stop-color="#c58bff"/>
+    </linearGradient>
+    <linearGradient id="dna" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb37a" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#9a8fb0" stop-opacity="0.35"/>
+    </linearGradient>
+    <radialGradient id="bead" cx="0.38" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#ffe2c4"/>
+      <stop offset="0.45" stop-color="#ff8f5a"/>
+      <stop offset="1" stop-color="#8e3b6e"/>
+    </radialGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff9e6b" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ff9e6b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#c58bff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#c58bff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#grid)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#glow)"/>
+
+  <!-- chromatin fibre: DNA wrapped around nucleosomes, fading with "age" -->
+  <path d="M700.0 170.0 L701.5 172.7 L702.9 175.4 L704.4 178.0 L705.8 180.6 L707.2 183.1 L708.7 185.6 L710.1 188.0 L711.6 190.4 L713.0 192.6 L714.5 194.7 L716.0 196.7 L717.4 198.6 L718.9 200.3 L720.3 201.9 L721.8 203.4 L723.2 204.7 L724.6 205.9 L726.1 207.0 L727.5 207.8 L729.0 208.6 L730.5 209.2 L731.9 209.7 L733.4 210.0 L734.8 210.2 L736.2 210.3 L737.7 210.3 L739.1 210.2 L740.6 210.0 L742.0 209.7 L743.5 209.3 L745.0 208.9 L746.4 208.4 L747.9 207.9 L749.3 207.3 L750.8 206.8 L752.2 206.2 L753.6 205.6 L755.1 205.1 L756.5 204.6 L758.0 204.1 L759.5 203.7 L760.9 203.4 L762.4 203.1 L763.8 202.9 L765.2 202.7 L766.7 202.7 L768.1 202.7 L769.6 202.8 L771.0 203.0 L772.5 203.3 L774.0 203.7 L775.4 204.2 L776.9 204.8 L778.3 205.4 L779.8 206.2 L781.2 207.0 L782.6 207.8 L784.1 208.8 L785.5 209.7 L787.0 210.7 L788.5 211.8 L789.9 212.8 L791.4 213.9 L792.8 214.9 L794.2 216.0 L795.7 217.0 L797.1 217.9 L798.6 218.8 L800.0 219.7 L801.5 220.4 L803.0 221.1 L804.4 221.7 L805.9 222.1 L807.3 222.5 L808.8 222.7 L810.2 222.8 L811.6 222.7 L813.1 222.5 L814.5 222.1 L816.0 221.6 L817.5 220.9 L818.9 220.1 L820.4 219.1 L821.8 218.0 L823.2 216.7 L824.7 215.3 L826.1 213.7 L827.6 211.9 L829.0 210.1 L830.5 208.1 L832.0 206.0 L833.4 203.8 L834.9 201.5 L836.3 199.2 L837.8 196.7 L839.2 194.3 L840.6 191.7 L842.1 189.2 L843.5 186.6 L845.0 184.0 L846.5 181.4 L847.9 178.9 L849.4 176.3 L850.8 173.9 L852.2 171.5 L853.7 169.1 L855.1 166.9 L856.6 164.7 L858.0 162.6 L859.5 160.7 L861.0 158.8 L862.4 157.1 L863.9 155.5 L865.3 154.0 L866.8 152.7 L868.2 151.5 L869.6 150.4 L871.1 149.4 L872.5 148.6 L874.0 147.9 L875.5 147.3 L876.9 146.8 L878.4 146.5 L879.8 146.2 L881.2 146.1 L882.7 146.0 L884.1 146.0 L885.6 146.0 L887.0 146.1 L888.5 146.2 L890.0 146.4 L891.4 146.6 L892.9 146.8 L894.3 147.0 L895.8 147.1 L897.2 147.3 L898.6 147.4 L900.1 147.4 L901.5 147.4 L903.0 147.4 L904.5 147.2 L905.9 147.0 L907.4 146.7 L908.8 146.3 L910.2 145.8 L911.7 145.3 L913.1 144.6 L914.6 143.8 L916.0 142.9 L917.5 142.0 L919.0 140.9 L920.4 139.7 L921.9 138.5 L923.3 137.2 L924.8 135.8 L926.2 134.4 L927.6 132.9 L929.1 131.4 L930.5 129.8 L932.0 128.2 L933.5 126.6 L934.9 125.0 L936.4 123.5 L937.8 121.9 L939.2 120.4 L940.7 119.0 L942.1 117.6 L943.6 116.3 L945.0 115.1 L946.5 114.0 L948.0 113.0 L949.4 112.1 L950.9 111.4 L952.3 110.8 L953.8 110.3 L955.2 110.0 L956.6 109.8 L958.1 109.8 L959.5 110.0 L961.0 110.3 L962.5 110.8 L963.9 111.5 L965.3 112.3 L966.8 113.3 L968.2 114.4 L969.7 115.7 L971.1 117.1 L972.6 118.7 L974.0 120.4 L975.5 122.2 L977.0 124.1 L978.4 126.1 L979.8 128.1 L981.3 130.3 L982.8 132.5 L984.2 134.8 L985.6 137.0 L987.1 139.3 L988.5 141.6 L990.0 143.9 L991.5 146.2 L992.9 148.5 L994.3 150.7 L995.8 152.8 L997.2 154.9 L998.7 156.9 L1000.1 158.8 L1001.6 160.6 L1003.0 162.4 L1004.5 164.0 L1006.0 165.5 L1007.4 166.9 L1008.8 168.2 L1010.3 169.4 L1011.8 170.4 L1013.2 171.4 L1014.6 172.2 L1016.1 172.9 L1017.5 173.5 L1019.0 174.0 L1020.5 174.5 L1021.9 174.8 L1023.3 175.0 L1024.8 175.2 L1026.2 175.4 L1027.7 175.4 L1029.2 175.5 L1030.6 175.5 L1032.0 175.5 L1033.5 175.5 L1035.0 175.5 L1036.4 175.5 L1037.8 175.5 L1039.3 175.6 L1040.8 175.7 L1042.2 175.9 L1043.7 176.1 L1045.1 176.5 L1046.5 176.9 L1048.0 177.4 L1049.5 178.0 L1050.9 178.7 L1052.3 179.5 L1053.8 180.4 L1055.2 181.4 L1056.7 182.6 L1058.2 183.8 L1059.6 185.2 L1061.0 186.6 L1062.5 188.2 L1064.0 189.8 L1065.4 191.5 L1066.8 193.3 L1068.3 195.2 L1069.8 197.1 L1071.2 199.1 L1072.7 201.2 L1074.1 203.2 L1075.5 205.3 L1077.0 207.4 L1078.5 209.4 L1079.9 211.5 L1081.3 213.5 L1082.8 215.4 L1084.2 217.4 L1085.7 219.2 L1087.2 220.9 L1088.6 222.6 L1090.0 224.1 L1091.5 225.6 L1093.0 226.8 L1094.4 228.0 L1095.8 229.0 L1097.3 229.9 L1098.8 230.6 L1100.2 231.2 L1101.7 231.6 L1103.1 231.8 L1104.5 231.9 L1106.0 231.8 L1107.5 231.5 L1108.9 231.1 L1110.3 230.5 L1111.8 229.7 L1113.2 228.8 L1114.7 227.8 L1116.2 226.7 L1117.6 225.4 L1119.0 224.0 L1120.5 222.5 L1122.0 220.9 L1123.4 219.2 L1124.8 217.5 L1126.3 215.7 L1127.8 213.9 L1129.2 212.0 L1130.7 210.2 L1132.1 208.3 L1133.5 206.4 L1135.0 204.6 L1136.5 202.8 L1137.9 201.0 L1139.3 199.3 L1140.8 197.6 L1142.2 196.0 L1143.7 194.5 L1145.2 193.1 L1146.6 191.8 L1148.0 190.5 L1149.5 189.4 L1151.0 188.4 L1152.4 187.4 L1153.8 186.6 L1155.3 185.9 L1156.8 185.3 L1158.2 184.8 L1159.7 184.3 L1161.1 184.0 L1162.5 183.7 L1164.0 183.5 L1165.5 183.4 L1166.9 183.3 L1168.3 183.3 L1169.8 183.3 L1171.2 183.4 L1172.7 183.4 L1174.2 183.5 L1175.6 183.6 L1177.0 183.6 L1178.5 183.6 L1180.0 183.6 L1181.4 183.5 L1182.8 183.3 L1184.3 183.1 L1185.8 182.8 L1187.2 182.4 L1188.7 181.9 L1190.1 181.3 L1191.5 180.6 L1193.0 179.8 L1194.5 178.9 L1195.9 177.8 L1197.3 176.6 L1198.8 175.3 L1200.2 173.9 L1201.7 172.4 L1203.2 170.7 L1204.6 168.9 L1206.0 167.0 L1207.5 165.1 L1209.0 163.0 L1210.4 160.8 L1211.8 158.6 L1213.3 156.3 L1214.8 153.9 L1216.2 151.5 L1217.7 149.1 L1219.1 146.7 L1220.5 144.2 L1222.0 141.8" fill="none" stroke="url(#dna)" stroke-width="3" stroke-linecap="round"/>
+    <g transform="translate(714.5 194.7)" opacity="0.95">
+      <circle r="36.0" fill="url(#halo)"/>
+      <circle r="22.0" fill="url(#bead)"/>
+      <ellipse rx="22.0" ry="8.4" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(-25)"/>
+    </g>
+    <g transform="translate(763.8 202.9)" opacity="0.89">
+      <circle r="35.5" fill="url(#halo)"/>
+      <circle r="21.5" fill="url(#bead)"/>
+      <ellipse rx="21.5" ry="8.2" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(-16)"/>
+    </g>
+    <g transform="translate(813.1 222.5)" opacity="0.84">
+      <circle r="35.0" fill="url(#halo)"/>
+      <circle r="21.0" fill="url(#bead)"/>
+      <ellipse rx="21.0" ry="8.0" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(-7)"/>
+    </g>
+    <g transform="translate(862.4 157.1)" opacity="0.78">
+      <circle r="34.5" fill="url(#halo)"/>
+      <circle r="20.5" fill="url(#bead)"/>
+      <ellipse rx="20.5" ry="7.8" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(2)"/>
+    </g>
+    <g transform="translate(911.7 145.3)" opacity="0.73">
+      <circle r="34.0" fill="url(#halo)"/>
+      <circle r="20.0" fill="url(#bead)"/>
+      <ellipse rx="20.0" ry="7.6" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(11)"/>
+    </g>
+    <g transform="translate(961.0 110.3)" opacity="0.67">
+      <circle r="33.5" fill="url(#halo)"/>
+      <circle r="19.5" fill="url(#bead)"/>
+      <ellipse rx="19.5" ry="7.4" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(20)"/>
+    </g>
+    <g transform="translate(1010.3 169.4)" opacity="0.62">
+      <circle r="33.0" fill="url(#halo)"/>
+      <circle r="19.0" fill="url(#bead)"/>
+      <ellipse rx="19.0" ry="7.2" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(29)"/>
+    </g>
+    <g transform="translate(1059.6 185.2)" opacity="0.56">
+      <circle r="32.5" fill="url(#halo)"/>
+      <circle r="18.5" fill="url(#bead)"/>
+      <ellipse rx="18.5" ry="7.0" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(38)"/>
+    </g>
+    <g transform="translate(1108.9 231.1)" opacity="0.51">
+      <circle r="32.0" fill="url(#halo)"/>
+      <circle r="18.0" fill="url(#bead)"/>
+      <ellipse rx="18.0" ry="6.8" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(47)"/>
+    </g>
+    <g transform="translate(1158.2 184.8)" opacity="0.45">
+      <circle r="31.5" fill="url(#halo)"/>
+      <circle r="17.5" fill="url(#bead)"/>
+      <ellipse rx="17.5" ry="6.7" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(56)"/>
+    </g>
+    <g transform="translate(1207.5 165.1)" opacity="0.40">
+      <circle r="31.0" fill="url(#halo)"/>
+      <circle r="17.0" fill="url(#bead)"/>
+      <ellipse rx="17.0" ry="6.5" fill="none" stroke="#ffd8a8" stroke-opacity="0.55" stroke-width="2" transform="rotate(65)"/>
+    </g>
+  <text x="712" y="318" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#ffb37a" fill-opacity="0.8" letter-spacing="2">YOUNG</text>
+  <text x="1216" y="318" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#9a8fb0" letter-spacing="2">AGED</text>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="66" y="84" fill="#b9a6d8" font-size="16" letter-spacing="4" font-weight="600">CARL · HEBREW UNIVERSITY OF JERUSALEM</text>
+    <text x="64" y="150" fill="#ffffff" font-size="60" font-weight="700" letter-spacing="-1">Lab Website</text>
+    <rect x="66" y="168" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="208" fill="#e4d9f2" font-size="22">The Chromatin and Aging Research Lab</text>
+    <g transform="translate(64 244)" font-size="14" font-weight="600">
+      <rect width="88" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ff9e6b" stroke-opacity="0.6"/>
+      <text x="44" y="20" text-anchor="middle" fill="#ffe6d6">Research</text>
+      <rect x="98" width="80" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#ff9e6b" stroke-opacity="0.6"/>
+      <text x="138" y="20" text-anchor="middle" fill="#ffe6d6">People</text>
+      <rect x="188" width="116" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#e08fd0" stroke-opacity="0.6"/>
+      <text x="246" y="20" text-anchor="middle" fill="#fbe0f5">Publications</text>
+      <rect x="314" width="70" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#c58bff" stroke-opacity="0.6"/>
+      <text x="349" y="20" text-anchor="middle" fill="#efe2ff">News</text>
+      <rect x="394" width="80" height="30" rx="15" fill="#ffffff" fill-opacity="0.08" stroke="#c58bff" stroke-opacity="0.6"/>
+      <text x="434" y="20" text-anchor="middle" fill="#efe2ff">Photos</text>
+    </g>
+  </g>
+</svg>
