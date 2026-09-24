@@ -1,0 +1,29 @@
+{
+  "note": "This page existed on the old site but was not linked from the menu. A \"Click Here\" button on the June 2017 item pointed to wix.com (template leftover).",
+  "items": [
+    {
+      "title": "got a big grant!!!!",
+      "date": "August 31, 2018",
+      "text": "GIF grant entitled: \"Deciphering cellular state transitions during critical phases of meiotic prophase in mammalian spermatogenesis\" accepted!\n\ntogether with Prof. Attila Toth from TU Dresden",
+      "image": "assets/images/news/august-31-2018-got-a-big-grant.jpg"
+    },
+    {
+      "title": "going into our new lab!!!",
+      "date": "June 21, 2017",
+      "text": "",
+      "image": "assets/images/lab-photos/lab-moving-3.jpg"
+    },
+    {
+      "title": "ELISHEVA GETS A FACULTY PRIZE",
+      "date": "May 21, 2017",
+      "text": "Elisheva got a prize for excellence in research- well done!!",
+      "image": "assets/images/news/may-21-2017-elisheva-gets-a-faculty-prize.jpg"
+    },
+    {
+      "title": "NEW LAB!!!",
+      "date": "May 22, 2017",
+      "text": "We are moving!\n\nNew CARL is getting ready to receive us and our experiments. very exciting to be moving after 1.5 years in a temporary space. updates to come!",
+      "image": "assets/images/news/may-22-2017-new-lab.jpg"
+    }
+  ]
+}

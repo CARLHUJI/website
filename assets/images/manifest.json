@@ -31,6 +31,14 @@
         "caption": "Hebrew University of Jerusalem logo (header)"
       },
       {
+        "page": "https://mikeklut.wixsite.com/carl/our-research",
+        "displayed_size": "63x88",
+        "original_alt": null,
+        "link": "http://new.huji.ac.il/en",
+        "role": "logo",
+        "caption": "Hebrew University of Jerusalem logo (header)"
+      },
+      {
         "page": "https://mikeklut.wixsite.com/carl/publications",
         "displayed_size": "63x88",
         "original_alt": null,
@@ -40,6 +48,14 @@
       },
       {
         "page": "https://mikeklut.wixsite.com/carl/lab-photos",
+        "displayed_size": "63x88",
+        "original_alt": null,
+        "link": "http://new.huji.ac.il/en",
+        "role": "logo",
+        "caption": "Hebrew University of Jerusalem logo (header)"
+      },
+      {
+        "page": "https://mikeklut.wixsite.com/carl/news",
         "displayed_size": "63x88",
         "original_alt": null,
         "link": "http://new.huji.ac.il/en",
@@ -88,6 +104,14 @@
         "caption": "HUJI Faculty of Dental Medicine logo (header)"
       },
       {
+        "page": "https://mikeklut.wixsite.com/carl/our-research",
+        "displayed_size": "76x63",
+        "original_alt": null,
+        "link": "https://dental.ekmd.huji.ac.il/En/home/Pages/default.aspx",
+        "role": "logo",
+        "caption": "HUJI Faculty of Dental Medicine logo (header)"
+      },
+      {
         "page": "https://mikeklut.wixsite.com/carl/publications",
         "displayed_size": "76x63",
         "original_alt": null,
@@ -97,6 +121,14 @@
       },
       {
         "page": "https://mikeklut.wixsite.com/carl/lab-photos",
+        "displayed_size": "76x63",
+        "original_alt": null,
+        "link": "https://dental.ekmd.huji.ac.il/En/home/Pages/default.aspx",
+        "role": "logo",
+        "caption": "HUJI Faculty of Dental Medicine logo (header)"
+      },
+      {
+        "page": "https://mikeklut.wixsite.com/carl/news",
         "displayed_size": "76x63",
         "original_alt": null,
         "link": "https://dental.ekmd.huji.ac.il/En/home/Pages/default.aspx",
@@ -145,6 +177,14 @@
         "caption": "Institute of Dental Sciences (IODS) logo (header)"
       },
       {
+        "page": "https://mikeklut.wixsite.com/carl/our-research",
+        "displayed_size": "118x82",
+        "original_alt": null,
+        "link": "https://iodshuji.wixsite.com/iodshuji",
+        "role": "logo",
+        "caption": "Institute of Dental Sciences (IODS) logo (header)"
+      },
+      {
         "page": "https://mikeklut.wixsite.com/carl/publications",
         "displayed_size": "118x82",
         "original_alt": null,
@@ -154,6 +194,14 @@
       },
       {
         "page": "https://mikeklut.wixsite.com/carl/lab-photos",
+        "displayed_size": "118x82",
+        "original_alt": null,
+        "link": "https://iodshuji.wixsite.com/iodshuji",
+        "role": "logo",
+        "caption": "Institute of Dental Sciences (IODS) logo (header)"
+      },
+      {
+        "page": "https://mikeklut.wixsite.com/carl/news",
         "displayed_size": "118x82",
         "original_alt": null,
         "link": "https://iodshuji.wixsite.com/iodshuji",
@@ -684,6 +732,66 @@
     "source_note": "lab photo"
   },
   {
+    "file": "research/research-01.jpg",
+    "wix_media_id": "27bb9a_f4d7350a82eb48ccaa82289cda9e67a1~mv2.jpg",
+    "original_url": "https://static.wixstatic.com/media/27bb9a_f4d7350a82eb48ccaa82289cda9e67a1~mv2.jpg",
+    "pixel_size": "1024x768",
+    "bytes": 335012,
+    "usages": [
+      {
+        "page": "https://mikeklut.wixsite.com/carl/our-research",
+        "displayed_size": "402x301",
+        "original_alt": null,
+        "link": null,
+        "role": "content-image",
+        "caption": null,
+        "context": "One of the ways by which big and drastic changes in behavior of cells can occur is by regulation of chromatin. Chromatin is defined as the assembly of DNA and t"
+      }
+    ],
+    "description": "Electron micrograph of a cell nucleus — dark heterochromatin at the nuclear periphery, mitochondria around",
+    "source_note": "possibly third-party (generic EM image) — check source"
+  },
+  {
+    "file": "research/research-02.png",
+    "wix_media_id": "27bb9a_1b94763cfbb74d6e8e45749197bdffe7~mv2.png",
+    "original_url": "https://static.wixstatic.com/media/27bb9a_1b94763cfbb74d6e8e45749197bdffe7~mv2.png",
+    "pixel_size": "500x324",
+    "bytes": 42794,
+    "usages": [
+      {
+        "page": "https://mikeklut.wixsite.com/carl/our-research",
+        "displayed_size": "312x202",
+        "original_alt": null,
+        "link": null,
+        "role": "content-image",
+        "caption": null,
+        "context": "​"
+      }
+    ],
+    "description": "DNA sequencing chromatogram (Sanger trace with base calls)",
+    "source_note": "possibly third-party (looks like a Wikimedia Commons diagram) — check source"
+  },
+  {
+    "file": "research/research-03.png",
+    "wix_media_id": "27bb9a_ae6c53ab620e4772b68bc512b401c170~mv2.png",
+    "original_url": "https://static.wixstatic.com/media/27bb9a_ae6c53ab620e4772b68bc512b401c170~mv2.png",
+    "pixel_size": "887x887",
+    "bytes": 423875,
+    "usages": [
+      {
+        "page": "https://mikeklut.wixsite.com/carl/our-research",
+        "displayed_size": "339x339",
+        "original_alt": null,
+        "link": null,
+        "role": "content-image",
+        "caption": null,
+        "context": "© 2017 by Michael K"
+      }
+    ],
+    "description": "Hi-C chromatin contact maps (red heat maps, 2×2 panels)",
+    "source_note": "possibly third-party — check source"
+  },
+  {
     "file": "publications/2025-ameho-the-effect-of-chronic-inflammation.jpg",
     "wix_media_id": "27bb9a_f72661b89c7843e7a968b9590e118724~mv2.jpg",
     "original_url": "https://static.wixstatic.com/media/27bb9a_f72661b89c7843e7a968b9590e118724~mv2.jpg",
@@ -1157,6 +1265,14 @@
         "role": "gallery-photo",
         "caption": "Lab moving",
         "original_size": "640x480"
+      },
+      {
+        "page": "https://mikeklut.wixsite.com/carl/news",
+        "displayed_size": "537x280",
+        "original_alt": null,
+        "link": null,
+        "role": "news-image",
+        "caption": "going into our new lab!!! (June 21, 2017)"
       }
     ]
   },
@@ -1357,5 +1473,62 @@
         "original_size": "2448x3264"
       }
     ]
+  },
+  {
+    "file": "news/august-31-2018-got-a-big-grant.jpg",
+    "wix_media_id": "27bb9a_111a696cf9d1432aab1eb51e2d92a6e4~mv2.jpg",
+    "original_url": "https://static.wixstatic.com/media/27bb9a_111a696cf9d1432aab1eb51e2d92a6e4~mv2.jpg",
+    "pixel_size": "237x88",
+    "bytes": 22082,
+    "usages": [
+      {
+        "page": "https://mikeklut.wixsite.com/carl/news",
+        "displayed_size": "236x123",
+        "original_alt": null,
+        "link": null,
+        "role": "news-image",
+        "caption": "got a big grant!!!! (August 31, 2018)"
+      }
+    ],
+    "description": "GIF (German-Israeli Foundation for Scientific Research and Development) logo",
+    "source_note": "third-party logo (grant funder)"
+  },
+  {
+    "file": "news/may-21-2017-elisheva-gets-a-faculty-prize.jpg",
+    "wix_media_id": "27bb9a_d1e85bc867864ba7aa2c644170add03e~mv2.jpg",
+    "original_url": "https://static.wixstatic.com/media/27bb9a_d1e85bc867864ba7aa2c644170add03e~mv2.jpg",
+    "pixel_size": "960x1280",
+    "bytes": 85902,
+    "usages": [
+      {
+        "page": "https://mikeklut.wixsite.com/carl/news",
+        "displayed_size": "537x280",
+        "original_alt": null,
+        "link": null,
+        "role": "news-image",
+        "caption": "ELISHEVA GETS A FACULTY PRIZE (May 21, 2017)"
+      }
+    ],
+    "description": "Elisheva receiving the faculty research-excellence prize on stage",
+    "source_note": "lab photo"
+  },
+  {
+    "file": "news/may-22-2017-new-lab.jpg",
+    "wix_media_id": "27bb9a_75ec4b597544418584fde02fbee85943~mv2.jpg",
+    "original_url": "https://static.wixstatic.com/media/27bb9a_75ec4b597544418584fde02fbee85943~mv2.jpg",
+    "pixel_size": "960x1280",
+    "bytes": 75552,
+    "usages": [
+      {
+        "page": "https://mikeklut.wixsite.com/carl/news",
+        "displayed_size": "537x280",
+        "original_alt": null,
+        "link": null,
+        "role": "news-image",
+        "caption": "NEW LAB!!! (May 22, 2017)"
+      }
+    ],
+    "description": "Empty office/bench space in the new lab (window, glass cabinets)",
+    "source_note": "lab photo"
   }
 ]

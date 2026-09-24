@@ -1,0 +1,74 @@
+{
+  "page_heading": "Meet The Team",
+  "members": [
+    {
+      "name": "Michael Klutstein",
+      "position": "Principal investigator",
+      "email": "michaelk@ekmd.huji.ac.il",
+      "photo": "assets/images/people/michael-klutstein.jpg"
+    },
+    {
+      "name": "Eli Reich",
+      "position": "Lab manager",
+      "email": "reich.eli@gmail.com",
+      "photo": "assets/images/people/eli-reich.jpg"
+    },
+    {
+      "name": "Stephen Ameho",
+      "position": "PhD student",
+      "photo": "assets/images/people/stephen-ameho.jpg"
+    },
+    {
+      "name": "Yehudit Friedman",
+      "position": "PhD student",
+      "photo": "assets/images/people/yehudit-friedman.jpg"
+    },
+    {
+      "name": "Henny Mozes",
+      "position": "PhD student",
+      "photo": "assets/images/people/henny-mozes.jpg"
+    },
+    {
+      "name": "Ayelet Meth",
+      "position": "MSc student",
+      "photo": "assets/images/people/ayelet-meth.jpg"
+    },
+    {
+      "name": "Shir Shneor",
+      "position": "MSc student",
+      "photo": "assets/images/people/shir-shneor.jpg"
+    },
+    {
+      "name": "Eden Rosenberg",
+      "position": "PhD student",
+      "photo": "assets/images/people/eden-rosenberg.jpg"
+    },
+    {
+      "name": "Reuven Apel",
+      "position": "MSc student",
+      "photo": "assets/images/people/reuven-apel.jpg"
+    },
+    {
+      "name": "Uri Freimark",
+      "position": "MSc student",
+      "photo": "assets/images/people/uri-freimark.jpg"
+    },
+    {
+      "name": "Hailemariam Demlew",
+      "position": "MSc student",
+      "photo": "assets/images/people/hailemariam-demlew.jpg"
+    },
+    {
+      "name": "A",
+      "position": "PhD student",
+      "photo": "assets/images/people/placeholder-portrait.jpg",
+      "note": "Placeholder entry on old site (name not filled in) — confirm or remove"
+    },
+    {
+      "name": "B",
+      "position": "MSc student",
+      "photo": "assets/images/people/placeholder-portrait.jpg",
+      "note": "Placeholder entry on old site (name not filled in) — confirm or remove"
+    }
+  ]
+}

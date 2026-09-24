@@ -1,0 +1,68 @@
+{
+  "source": "https://mikeklut.wixsite.com/carl",
+  "archived": "2026-09-24",
+  "site_title": "The Chromatin and Aging Research Lab-Michael Klutstein and co.",
+  "browser_title": "Science Lab | Klutstein lab | Jerusalem",
+  "meta_description": "Klutstein lab webpage",
+  "navigation": [
+    {
+      "label": "HOME",
+      "url": "https://mikeklut.wixsite.com/carl"
+    },
+    {
+      "label": "PROJECTS",
+      "url": "https://mikeklut.wixsite.com/carl/projects-1"
+    },
+    {
+      "label": "PEOPLE",
+      "url": "https://mikeklut.wixsite.com/carl/people"
+    },
+    {
+      "label": "PUBLICATIONS",
+      "url": "https://mikeklut.wixsite.com/carl/publications"
+    },
+    {
+      "label": "LAB PHOTOS",
+      "url": "https://mikeklut.wixsite.com/carl/lab-photos"
+    },
+    {
+      "label": "CONTACT",
+      "url": "https://mikeklut.wixsite.com/carl/contact"
+    }
+  ],
+  "pages_not_in_menu": [
+    "https://mikeklut.wixsite.com/carl/news",
+    "https://mikeklut.wixsite.com/carl/our-research"
+  ],
+  "header_logos": [
+    {
+      "file": "assets/images/logos/logo-hebrew-university.png",
+      "alt": "Hebrew University of Jerusalem logo (header)",
+      "link": "http://new.huji.ac.il/en"
+    },
+    {
+      "file": "assets/images/logos/logo-faculty-dental-medicine.jpg",
+      "alt": "HUJI Faculty of Dental Medicine logo (header)",
+      "link": "https://dental.ekmd.huji.ac.il/En/home/Pages/default.aspx"
+    },
+    {
+      "file": "assets/images/logos/logo-institute-dental-sciences.png",
+      "alt": "Institute of Dental Sciences (IODS) logo (header)",
+      "link": "https://iodshuji.wixsite.com/iodshuji"
+    }
+  ],
+  "footer": {
+    "copyright": "© 2017 by Michael K",
+    "phone_office": "+972-2-675-7067",
+    "phone_mobile": "+972-58-478-6952",
+    "email": "michaelk@ekmd.huji.ac.il",
+    "raw_text": [
+      "© 2017 by Michael K\n\nProudly created with Wix.com",
+      "Call",
+      "T:+97226757067",
+      "M: +972584786952",
+      "Contact",
+      "michaelk@ekmd.huji.ac.il"
+    ]
+  }
+}

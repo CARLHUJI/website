@@ -1,16 +1,16 @@
 # Image assets — CARL (Chromatin and Aging Research Lab)
 
-Downloaded 2026-09-23 from the current Wix site <https://mikeklut.wixsite.com/carl>. Each file is the **full-resolution original** (not the resized Wix thumbnail). `manifest.json` has the same data in machine-readable form (Wix media ID, original URL, pixel size, where each image appeared, displayed size, link target).
+Downloaded 2026-09-23/24 from the old Wix site <https://mikeklut.wixsite.com/carl> (all 8 pages in its sitemap, including the unlinked `/news` and `/our-research`). Each file is the **full-resolution original** (not the resized Wix thumbnail). `manifest.json` has the same data in machine-readable form (Wix media ID, original URL, pixel size, where each image appeared, displayed size, link target).
 
-Images used on several pages appear once, with every place they were used listed.
+Images used on several pages appear once, with every place they were used listed. Page text lives in [`/content`](../../content).
 
 ## Logos (site header)
 
 | File | Annotation | Original px | Shown on old site | Link |
 |---|---|---|---|---|
-| `logo-hebrew-university.png` | Hebrew University of Jerusalem logo (header) (used 6×) | 246x246 | contact @ 63x88, home @ 63x88, lab-photos @ 63x88, people @ 63x88, projects-1 @ 63x88, publications @ 63x88 | [link](http://new.huji.ac.il/en) |
-| `logo-faculty-dental-medicine.jpg` | HUJI Faculty of Dental Medicine logo (header) (used 6×) | 120x100 | contact @ 76x63, home @ 76x63, lab-photos @ 76x63, people @ 76x63, projects-1 @ 76x63, publications @ 76x63 | [link](https://dental.ekmd.huji.ac.il/En/home/Pages/default.aspx) |
-| `logo-institute-dental-sciences.png` | Institute of Dental Sciences (IODS) logo (header) (used 6×) | 1638x1138 | contact @ 118x82, home @ 118x82, lab-photos @ 118x82, people @ 118x82, projects-1 @ 118x82, publications @ 118x82 | [link](https://iodshuji.wixsite.com/iodshuji) |
+| `logo-hebrew-university.png` | Hebrew University of Jerusalem logo (header) (used 8×) | 246x246 | contact @ 63x88, home @ 63x88, lab-photos @ 63x88, news @ 63x88, our-research @ 63x88, people @ 63x88, projects-1 @ 63x88, publications @ 63x88 | [link](http://new.huji.ac.il/en) |
+| `logo-faculty-dental-medicine.jpg` | HUJI Faculty of Dental Medicine logo (header) (used 8×) | 120x100 | contact @ 76x63, home @ 76x63, lab-photos @ 76x63, news @ 76x63, our-research @ 76x63, people @ 76x63, projects-1 @ 76x63, publications @ 76x63 | [link](https://dental.ekmd.huji.ac.il/En/home/Pages/default.aspx) |
+| `logo-institute-dental-sciences.png` | Institute of Dental Sciences (IODS) logo (header) (used 8×) | 1638x1138 | contact @ 118x82, home @ 118x82, lab-photos @ 118x82, news @ 118x82, our-research @ 118x82, people @ 118x82, projects-1 @ 118x82, publications @ 118x82 | [link](https://iodshuji.wixsite.com/iodshuji) |
 
 ## People page — team portraits
 
@@ -51,6 +51,14 @@ Images used on several pages appear once, with every place they were used listed
 | `projects-02.png` | Radar charts comparing beer flavour profile: Original vs Survivor yeast | 1519x880 | projects-1 @ 231x134 |  |
 | `projects-03.png` | Lab members with ancient clay vessels; sampling vessel contents for yeast (collage) | 709x658 | projects-1 @ 185x220 |  |
 
+## Our Research page (not linked in old menu)
+
+| File | Annotation | Original px | Shown on old site | Link |
+|---|---|---|---|---|
+| `research-01.jpg` | Electron micrograph of a cell nucleus — dark heterochromatin at the nuclear periphery, mitochondria around ⚠️ possibly third-party (generic EM image) — check source | 1024x768 | our-research @ 402x301 |  |
+| `research-02.png` | DNA sequencing chromatogram (Sanger trace with base calls) ⚠️ possibly third-party (looks like a Wikimedia Commons diagram) — check source | 500x324 | our-research @ 312x202 |  |
+| `research-03.png` | Hi-C chromatin contact maps (red heat maps, 2×2 panels) ⚠️ possibly third-party — check source | 887x887 | our-research @ 339x339 |  |
+
 ## Publications page — thumbnails (each links to the paper/article)
 
 | File | Annotation | Original px | Shown on old site | Link |
@@ -78,6 +86,14 @@ Images used on several pages appear once, with every place they were used listed
 | `media-evolton.jpg` | Evolton | 394x600 | publications @ 120x120 | [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000182) |
 | `media-ynet-article-on-the-lab.png` | YNET article on the lab | 343x147 | publications @ 120x120 | [link](https://www.ynet.co.il/articles/0,7340,L-5102024,00.html) |
 
+## News page (not linked in old menu)
+
+| File | Annotation | Original px | Shown on old site | Link |
+|---|---|---|---|---|
+| `august-31-2018-got-a-big-grant.jpg` | GIF (German-Israeli Foundation for Scientific Research and Development) logo ⚠️ third-party logo (grant funder) | 237x88 | news @ 236x123 |  |
+| `may-21-2017-elisheva-gets-a-faculty-prize.jpg` | Elisheva receiving the faculty research-excellence prize on stage | 960x1280 | news @ 537x280 |  |
+| `may-22-2017-new-lab.jpg` | Empty office/bench space in the new lab (window, glass cabinets) | 960x1280 | news @ 537x280 |  |
+
 ## Lab Photos page — gallery
 
 | File | Annotation | Original px | Shown on old site | Link |
@@ -85,7 +101,7 @@ Images used on several pages appear once, with every place they were used listed
 | `tzemach-checking-out-the-alenbi-beer.jpg` | Tzemach checking out the 'Alenbi" beer | 864x1152 | lab-photos @ gallery |  |
 | `lab-moving.jpg` | Lab moving | 640x480 | lab-photos @ gallery |  |
 | `lab-moving-2.jpg` | Lab moving | 640x480 | lab-photos @ gallery |  |
-| `lab-moving-3.jpg` | Lab moving | 640x480 | lab-photos @ gallery |  |
+| `lab-moving-3.jpg` | Lab moving (used 2×) | 640x480 | lab-photos @ gallery, news @ 537x280 |  |
 | `yom-mechkar-2017.jpg` | Yom mechkar 2017 | 640x480 | lab-photos @ gallery |  |
 | `yom-mechkar-2017-2.jpg` | Yom mechkar 2017 | 960x1280 | lab-photos @ gallery |  |
 | `pesach-tiyul.jpg` | Pesach Tiyul | 585x1040 | lab-photos @ gallery |  |

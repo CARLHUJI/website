@@ -1,0 +1,212 @@
+{
+  "all_publications_link": "https://www.ncbi.nlm.nih.gov/pubmed/?term=michael+Klutstein",
+  "note": "Order as on old site (roughly newest first). type=media are press/news items. Unmatched leftovers: Since 2013, Björn Schumacher is full professor and director  — a biography of another researcher that appears on the old page, probably left there by mistake; not archived.",
+  "items": [
+    {
+      "type": "paper",
+      "title": "The effect of chronic inflammation on female fertility",
+      "citation": "Ameho and Klutstein, Reproduction 2025",
+      "year": 2025,
+      "link": "https://rep.bioscientifica.com/view/journals/rep/169/4/REP-24-0197.xml",
+      "thumbnail": "assets/images/publications/2025-ameho-the-effect-of-chronic-inflammation.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Epigenetic aging of mammalian gametes",
+      "citation": "Klutstein and Gonen, Mol Reprod Dev 2023",
+      "year": 2023,
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mrd.23717",
+      "thumbnail": "assets/images/publications/2023-klutstein-epigenetic-aging-of-mammalian-gamet.png"
+    },
+    {
+      "type": "paper",
+      "title": "Oxidative stress-mediated proapoptosis signaling: A novel theory on the mechanism underlying the pathogenesis of burning mouth syndrome",
+      "citation": "Heiliczer et al., J Am Dent Assoc 2024",
+      "year": 2024,
+      "link": "https://www.sciencedirect.com/science/article/pii/S000281772300555X?via%3Dihub",
+      "thumbnail": "assets/images/publications/2024-heiliczer-oxidative-stress-mediated-proapopto.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Epigenetic aging in oocytes",
+      "citation": "Wasserzug-Pash and Klutstein, Aging Albany NY 2023",
+      "year": 2023,
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10457075/",
+      "thumbnail": "assets/images/publications/2023-wasserzug-pash-epigenetic-aging-in-oocytes.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Oocyte Aging: A Multifactorial Phenomenon in A Unique Cell",
+      "citation": "Kordowitzki et al., Aging Dis 2024",
+      "year": 2024,
+      "link": "https://www.aginganddisease.org/EN/10.14336/AD.2023.0527",
+      "thumbnail": "assets/images/people/placeholder-portrait.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Overexpressed kinetochore genes are used by cancer cells as genome destabilizers and transformation catalysts",
+      "citation": "Aldwaik et al., Transl Oncol 2023",
+      "year": 2023,
+      "link": "https://www.clinicalkey.com/#!/content/playContent/1-s2.0-S193652332300089X?returnurl=https:%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193652332300089X%3Fshowall%3Dtrue&referrer=https:%2F%2Fpubmed.ncbi.nlm.nih.gov%2F",
+      "thumbnail": "assets/images/publications/2023-aldwaik-overexpressed-kinetochore-genes-are.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Pre-pubertal oocytes harbor altered histone modifications and chromatin configuration",
+      "citation": "Wasserzug-Pash et al., Front Cell Dev Biol 2023",
+      "year": 2023,
+      "link": "https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2022.1060440/full",
+      "thumbnail": "assets/images/publications/2023-wasserzug-pash-epigenetic-aging-in-oocytes.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Topical tretinoin treatment for burning mouth syndrome: a pilot study",
+      "citation": "Haviv et al., Quintessence Int 2022",
+      "year": 2022,
+      "link": "https://www.quintessence-publishing.com/deu/de/article/3315031/quintessence-international/2022/10/topical-tretinoin-treatment-for-burning-mouth-syndrome-a-pilot-study",
+      "thumbnail": "assets/images/publications/2022-haviv-topical-tretinoin-treatment-for-bur.jpg"
+    },
+    {
+      "type": "media",
+      "title": "Times of Israel piece, March 2022",
+      "link": "https://www.timesofisrael.com/in-breakthrough-jerusalem-lab-says-older-human-eggs-can-be-made-young-again/",
+      "thumbnail": "assets/images/people/placeholder-portrait.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Loss of heterochromatin and retrotransposon silencing as determinants in oocyte aging",
+      "citation": "Wasserzug-Pash et al., Aging Cell 2022",
+      "year": 2022,
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/acel.13568",
+      "thumbnail": "assets/images/publications/2022-wasserzug-pash-loss-of-heterochromatin-and-retrotr.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Endurance of extremely prolonged nutrient prevention across kingdoms of life",
+      "citation": "Hazan Schoemann and Klutstein, iScience 2021",
+      "year": 2021,
+      "link": "https://www.sciencedirect.com/science/article/pii/S2589004221007136?via%3Dihub",
+      "thumbnail": "assets/images/publications/2021-hazan-endurance-of-extremely-prolonged-nu.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Age-Dependent in vitro Maturation Efficacy of Human Oocytes - Is There an Optimal Age?",
+      "citation": "Karavani et al. Front Cell Dev Biol 2021",
+      "year": 2021,
+      "link": "https://www.frontiersin.org/articles/10.3389/fcell.2021.667682/full",
+      "thumbnail": "assets/images/publications/2021-karavani-age-dependent-in-vitro-maturation-e.png"
+    },
+    {
+      "type": "paper",
+      "title": "A Mouse Model for Studying the Development of Apical Periodontitis with Age",
+      "citation": "Goldman et al. MDPI Cells 2021",
+      "year": 2021,
+      "link": "https://www.mdpi.com/2073-4409/10/3/671?fbclid=IwAR2Ewd3uWsUY_Xu6ZQwEiQ7XdaT0Nm9XTTSl0K66yzjw8pQkRzCLZVRUBoc",
+      "thumbnail": "assets/images/publications/2021-goldman-a-mouse-model-for-studying-the-deve.jpg"
+    },
+    {
+      "type": "media",
+      "title": "Ynet article on the Nature paper",
+      "link": "https://www.ynet.co.il/environment-science/article/SJqqgzRmd",
+      "thumbnail": "assets/images/publications/media-ynet-article-on-the-nature-paper.png"
+    },
+    {
+      "type": "paper",
+      "title": "Centromeres are dismantled by foundational meiotic proteins Spo11 and Rec8",
+      "citation": "Hou et al. Nature 2021",
+      "year": 2021,
+      "link": "https://www.nature.com/articles/s41586-021-03279-8",
+      "thumbnail": "assets/images/publications/2021-hou-centromeres-are-dismantled-by-found.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Cause and effect in epigenetics - where lies the truth, and how can experiments reveal it?: Epigenetic self-reinforcing loops obscure causation in cancer and aging",
+      "citation": "Klutstein Bioessays 2021",
+      "year": 2021,
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/bies.202000262",
+      "thumbnail": "assets/images/publications/2021-klutstein-cause-and-effect-in-epigenetics-whe.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Colon Cancer-Associated Fusobacterium nucleatum May Originate From the Oral Cavity and Reach Colon Tumors via the Circulatory System",
+      "citation": "Abed et al. Front Cell Infect Microbiol 2020",
+      "year": 2020,
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426652/pdf/fcimb-10-00400.pdf",
+      "thumbnail": "assets/images/publications/2020-abed-colon-cancer-associated-fusobacteri.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Isolation and Characterization of Live Yeast Cells from Ancient Clay Vessels",
+      "citation": "Aouizerat et al. Bio-Protocol 2020",
+      "year": 2020,
+      "link": "https://bio-protocol.org/searchdb.aspx?q=klutstein&sid=20200518020005182",
+      "thumbnail": "assets/images/publications/2020-aouizerat-isolation-and-characterization-of-l.gif"
+    },
+    {
+      "type": "media",
+      "title": "BBC on the ancient beer",
+      "link": "https://www.bbc.com/news/world-middle-east-48371380",
+      "thumbnail": "assets/images/publications/media-bbc-on-the-ancient-beer.jpg"
+    },
+    {
+      "type": "paper",
+      "title": "Eukaryotic Adaptation to Years-Long Starvation Resembles that of Bacteria",
+      "citation": "Aouizerat et al. iScience 2019",
+      "year": 2019,
+      "link": "https://www.sciencedirect.com/science/article/pii/S2589004219302809?via%3Dihub",
+      "thumbnail": "assets/images/publications/2019-aouizerat-eukaryotic-adaptation-to-years-long.gif"
+    },
+    {
+      "type": "paper",
+      "title": "Inducing Apical Periodontitis in Mice",
+      "citation": "Goldman et al. JoVE 2019",
+      "year": 2019,
+      "link": "https://www.jove.com/video/59521/inducing-apical-periodontitis-in-mice",
+      "thumbnail": "assets/images/publications/2019-goldman-inducing-apical-periodontitis-in-mi.gif"
+    },
+    {
+      "type": "paper",
+      "title": "Isolation and Characterization of Live Yeast Cells from Ancient Vessels as a Tool in Bio-Archaeology",
+      "citation": "Aouizerat et al. mBio 2019",
+      "year": 2019,
+      "link": "https://mbio.asm.org/content/10/2/e00388-19.long",
+      "thumbnail": "assets/images/publications/2019-aouizerat-isolation-and-characterization-of-l.gif"
+    },
+    {
+      "type": "paper",
+      "title": "Epigenetic changes in mammalian gametes throughout their lifetime: the four seasons metaphor",
+      "citation": "Wasserzug-Pash and Klutstein, Chromosoma, 2019",
+      "year": 2019,
+      "link": "https://link.springer.com/article/10.1007%2Fs00412-019-00704-w",
+      "thumbnail": "assets/images/publications/2019-wasserzug-pash-epigenetic-changes-in-mammalian-gam.png"
+    },
+    {
+      "type": "media",
+      "title": "Evolton",
+      "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000182",
+      "thumbnail": "assets/images/publications/media-evolton.jpg"
+    },
+    {
+      "type": "media",
+      "title": "YNET article on the lab",
+      "link": "https://www.ynet.co.il/articles/0,7340,L-5102024,00.html",
+      "thumbnail": "assets/images/publications/media-ynet-article-on-the-lab.png"
+    },
+    {
+      "type": "paper",
+      "title": "Contribution of epigenetic mechanisms to variation in cancer risk among tissues",
+      "citation": "Klutstein M, Moss J, Kaplan T, Cedar H PNAS 2017",
+      "year": 2017,
+      "link": null,
+      "thumbnail": null
+    },
+    {
+      "type": "paper",
+      "title": "DNA Methylation in Cancer and Aging",
+      "citation": "Klutstein M, Nejman D, Greenfield R, Cedar H Cancer Research 2016",
+      "year": 2016,
+      "link": null,
+      "thumbnail": null
+    }
+  ]
+}
